@@ -2,8 +2,7 @@
 
 
 - 01 — Révision complète: `01-Kotlin-Revision-Complete.md`
-- 02 — Cheat Sheet (résumé rapide): `02-Kotlin-CheatSheet.md`
-- 03 — Q&A / Flashcards + Mini-exercices: `03-Kotlin-QA.md`
+- 02 — Q&A / Flashcards + Mini-exercices: `03-Kotlin-QA.md`
 
 
 Conseils d’étude:
