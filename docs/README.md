@@ -8,7 +8,6 @@
 Conseils d’étude:
 
 - Parcourir d’abord la révision complète pour couvrir tous les sujets.
-- Utiliser le Cheat Sheet en mémoire rapide avant évaluations.
 - Répondre aux Q&A à voix haute; coder les mini-exercices.
 
 
